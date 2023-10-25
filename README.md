@@ -1,6 +1,6 @@
 ### [Connect with me 💬 ](https://msahil.bio.link)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=memon-sahil.memon-sahil)
-[![Github](https://img.shields.io/github/followers/memon-sahil?label=Follow&style=social)](https://github.com/memon-sahil)
+[![Github](https://img.shields.io/github/followers/memon-sahil?label=Follow&style=social)](https://github.com/memon-sahil)<br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=memon-sahil&show_icons=true&theme=tokyonight)
 <h2>Languages & tools</h2>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
