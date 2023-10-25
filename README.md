@@ -1,8 +1,8 @@
 ### [Connect with me 💬 ](https://msahil.bio.link)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=memon-sahil.memon-sahil)
 [![Github](https://img.shields.io/github/followers/memon-sahil?label=Follow&style=social)](https://github.com/memon-sahil)<br>
-<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/1*cx7xObzA-o4lFUl_sGn5Bw.gif?raw=true">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=memon-sahil&show_icons=true&theme=tokyonight)
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/1*cx7xObzA-o4lFUl_sGn5Bw.gif?raw=true">
 - 💼 any freelance work? do reach, [email](mailto:ms.sahilmemon@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 <h2>Languages & tools</h2>
