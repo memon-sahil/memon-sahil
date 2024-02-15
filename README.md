@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a>
-  <a href="https://discord.com/users/memonsahil">
+  <a href="https://discordapp.com/users/1118861913363853323">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
