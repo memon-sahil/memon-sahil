@@ -14,14 +14,14 @@
  
  🌱 I'm currently learning **Java, Development & DSA**
 
- 💬 Ask me about **Javascript, Python, Java, MySQL, Development... or anything [here](msahil.bio.link)**
+ 💬 Ask me about **Javascript, Python, Java, MySQL, Development... or anything [here](https://msahil.bio.link/)**
 
  ⚡ Fun fact **The term 'Wi-Fi' doesn't actually stand for anything. It was a play on 'Hi-Fi,' which means high fidelity. Wi-Fi just sounded catchier!**
 
  </div>
 
 <div align="center">
-  <a href="mail.to:ms.sahilmemon@gmail.com">
+  <a href="mailto:ms.sahilmemon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sahil-memon">
